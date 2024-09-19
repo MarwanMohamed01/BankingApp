@@ -56,7 +56,7 @@
 ## Usage
 
 1. **Register a User**: Use the `/register` endpoint to create a new user.
-2. **Login**: Authenticate using the `/login` endpoint.
+2. **Login**: Authenticate using the `/authenticate` endpoint.
 3. **Manage Wallets**: Create and manage wallets via the `/wallets` endpoints.
 4. **Make Transactions**: Deposit and withdraw funds through the `/transactions` endpoints.
 
